@@ -1,0 +1,40 @@
+Do které skupiny obratlovců patří žraloci a rejnoci?;Ryby;Paryby;Obojživelníci;B
+Z jakého materiálu je tvořena kostra paryb?;Z kostí;Z chrupavky;Z rohoviny;B
+Který orgán chybí žralokům, takže musí neustále plavat, aby neklesli ke dnu?;Žábry;Postranní čára;Plynový měchýř;C
+Jak se nazývá smyslový orgán ryb, kterým vnímají proudění a tlak vody?;Postranní čára;Proudový receptor;Vodní sluch;A
+Kterým orgánem dýchají dospělé ryby?;Plícemi;Kůží;Žábrami;C
+Jak se nazývá typické srdce ryb?;Plicní srdce;Proudové srdce;Venózní srdce;C
+Čím je pokryto tělo většiny kostnatých ryb?;Slizem a šupinami;Rohovými štítky;Holou kůží;A
+Jak se nazývá rozmnožování ryb, při kterém samice vypouští jikry?;Vnitřní oplození;Tření;Klonování;B
+Která naše ryba je dravá a má protáhlé tělo s tlamou plnou ostrých zubů?;Kapr obecný;Štika obecná;Cejn velký;B
+Která z následujících ryb patří mezi chráněné a žije v čistých horských potocích?;Pstruh potoční;Sumec velký;Karass obecný;A
+Jak se vyvíjejí mláďata obojživelníků?;Přímým vývojem;Proměnou přes larvu (pulce);V děloze matky;B
+Čím dýchá pulec obojživelníků v prvních fázích života?;Plícemi;Kůží;Žábrami;C
+Která sféra srdce obojživelníků je rozdělena na dvě části?;Komora;Předsíně;Tepna;B
+Jakou kůži mají obojživelníci?;Suchou s šupinami;Vlhkou, nahou a prostoupenou žlázami;Porostlou peřím;B
+Který náš ocasatý obojživelník je známý svým černo-žlutým výstražným zbarvením?;Mlok skvrnitý;Čolek obecný;Skokan zelený;A
+Kam kladou obojživelníci svá vajíčka?;Do suchého písku;Do vody;Na listy stromů;B
+Která žába má na prstech přísavné terčíky a žije na stromech a keřích?;Ropucha obecná;Kuňka žlutobřichá;Rosnička zelená;C
+Jak zimují obojživelníci v našich podmínkách?;Odlétají na jih;Upadají do stavu strnulosti (hibernace);Jsou aktivní pod ledem;B
+Patří plazi mezi živočichy se stálou, nebo proměnlivou teplotou těla?;Stálou;Proměnlivou;Teplota se nemění;B
+Čím je pokryto tělo plazů, aby nedocházelo ke ztrátám vody?;Slizkou kůží;Rohovými šupinami nebo štítky;Chrupavkou;B
+Kterým orgánem dýchají všichni plazi včetně těch vodních?;Žábrami;Plícemi;Celým povrchem těla;B
+Jaký typ oplození je typický pro plazy?;Vnitřní oplození;Vnější oplození (tření);Klonování;A
+Který náš jediný jedovatý had má na hřbetě klikatou čáru?;Užovka obojková;Zmije obecná;Slepýš křehký;B
+Kam patří slepýš křehký z hlediska zoologie?;Mezi hady;Mezi ještěrky;Mezi obojživelníky;B
+Který plaz má na břiše a hřbetě pevný kostěný krunýř?;Krokodýl;Ještěrka;Želva;C
+Čím se liší srdce krokodýlů od ostatních plazů?;Mají téměř úplně rozdělenou srdeční komoru;Mají jen jednu předsíň;Nemají srdce;A
+Který smysl mají hadi velmi dobře vyvinutý díky Jacobsonovu orgánu?;Zrak;Sluch;Čich a chuť (pomocí jazyka);C
+Jak se nazývá svlékání vrchní vrstvy kůže u hadů a ještěrek?;Línání (svlek);Růst;Koroze;A
+Která naše užovka žije v blízkosti vody a má za hlavou žluté půlměsíčky?;Užovka hladká;Užovka obojková;Užovka podplamatá;B
+Proč se plazi rádi vyhřívají na slunci?;Aby jim uschla kůže;Slunce potřebují k trávení;Získávají tak tělesné teplo;C
+Která skupina má poprvé v evoluci zárodečné obaly kolem vajíčka (anamiota vs amniota)?;Ryby;Obojživelníci;Plazi;C
+Jak se pohybuje většina našich ještěrek při běhu?;Snaží se létat;Vlní tělem ze strany na stranu;Skáče po zadních nohách;B
+Který orgán umožňuje rybám měnit hloubku ponoru bez úsilí?;Žábry;Plynový měchýř;Srdce;B
+Která ryba nemá čelisti a patří mezi kruhoústé, blízce příbuzné rybám?;Žralok;Mihule;Pstruh;B
+Co je typické pro larvy (pulce) žab na rozdíl od dospělců?;Mají plíce;Mají ocas a nemají nohy;Mají čtyři končetiny;B
+Která žába vylučuje z kůže silné toxiny a má bradavičnatou kůži?;Rosnička zelená;Ropucha obecná;Skokan hnědý;B
+Jaká vajíčka kladou plazi?;Měkká bez skořápky do vody;S vápenatou nebo kožovitou skořápkou na souš;Nekladou vajíčka;B
+Který zástupce plazů je známý schopností měnit barvu kůže podle prostředí?;Chameleon;Krokodýl;Gekon;A
+Jak dýchají mořské želvy?;Žábrami pod vodou;Plícemi, musí se nadechovat nad hladinou;Kůží;B
+Která zemská sféra je klíčová pro kladení vajec obojživelníků?;Litosféra;Hydrosféra;Atmosféra;B
