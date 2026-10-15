@@ -1,50 +1,50 @@
-Která věda se zabývá studiem původu, vývoje a chování člověka?;Antropologie;Archeologie;Geologie;A
-Do které skupiny savců řadíme člověka z hlediska zoologie?;Šelmy;Hlodavci;Primáti;C
-Který živočich je evolučně nejbližším žijícím příbuzným člověka?;Šimpanz;Orangutan;Pavián;A
-Jak se nazývá proces historického vývoje a vzniku člověka jako biologického druhu?;Fotosyntéza;Antropogeneze;Metamorfóza;B
-Který dávný předek člověka žil v Africe, chodil po dvou a patřil mezi první homonidy?;Australopiték;Neandrtálec;Člověk vzpřímený;A
-Jak se latinsky nazývá rod, do kterého patří moderní člověk i jeho přímí předci?;Homo;Australopithecus;Pan;A
-Který druh člověka jako první vyráběl jednoduché kamenné nástroje?;Člověk zručný;Člověk vzpřímený;Člověk rozumný;A
-Který předek člověka jako první začal systematicky používat oheň?;Člověk zručný;Člověk vzpřímený (Homo erectus);Člověk rozumný;B
-Který poddruh člověka žil v Evropě během doby ledové a byl robustně stavěný?;Homo habilis;Neandrtálec;Homo erectus;B
-Jak zní vědecký název pro současného moderního člověka?;Homo erectus;Homo sapiens;Homo habilis;B
-Kde podle vědeckých důkazů leží kolébka lidstva, tedy kde vznikl Homo sapiens?;V Evropě;V Asii;V Africe;C
-Co bylo klíčovým znakem při vývoji člověka, který uvolnil ruce pro práci?;Vznik řeči;Vzpřímená chůze po dvou končetinách;Ztráta srsti;B
-Jak se v průběhu evoluce člověka měnil objem mozkovny?;Zmenšoval se;Zvětšoval se;Zůstal naprosto stejný;B
-Která lidská rasa (plemeno) je původní v oblasti Evropy, Blízkého východu a Indie?;Mongoloidní;Negroidní;Europeidní;C
-Který znak je typický pro původní obyvatele mongoloidní rasy?;Tmavá silně kudrnatá kůže;Kožní řasa na horním očním víčku;Úzký vysoký nos;B
-Jak se odborně nazývá míšení různých lidských ras?;Hybridizace;Rasová integrace;Míšectví;C
-Kdo je to mulat?;Míšenec rasy europeidní a negroidní;Míšenec rasy europeidní a mongoloidní;Míšenec rasy negroidní a mongoloidní;A
-Kdo je to mestic?;Míšenec rasy europeidní a mongoloidní (např. indiánů);Míšenec rasy europeidní a negroidní;Potomek dvou neandrtálců;A
-Jsou lidské rasy samostatnými biologickými druhy?;Ano, jsou to různé druhy;Ne, všechny rasy patří do jednoho druhu Homo sapiens;Ano, ale jen některé;B
-Co je hlavní příčinou různého zbarvení kůže u lidských ras?;Množství pigmentu melaninu v kůži;Rozdílná strava;Množství tuku pod kůží;A
-Jak se nazývá pavědecká a nebezpečná teorie, která tvrdí, že některé rasy jsou nadřazené jiným?;Ekologie;Rasismus;Humanismus;B
-Co je základní stavební a funkční jednotkou lidského těla?;Tkáň;Buňka;Orgán;B
-Která část lidské buňky obsahuje genetickou informaci (DNA) a řídí její činnost?;Jádro;Mitochondrie;Cytoplazma;A
-Jak se nazývá polotekutá hmota, která vyplňuje vnitřek buňky?;Buněčná stěna;Jádro;Cytoplazma;C
-Které organely slouží jako energetická centra buňky a probíhá v nich buněčné dýchání?;Ribozomy;Mitochondrie;Lysozomy;B
-Co tvoří povrch lidské buňky a zajišťuje výměnu látek s okolím?;Buněčná stěna;Prvok;Cytoplazmatická membrána;C
-Které organely v živočišné buňce zajišťují tvorbu (syntézu) bílkovin?;Ribozomy;Vakuoly;Chloroplasty;A
-Nachází se v lidských buňkách buněčná stěna a chloroplast?;Ano, obojí;Ne, tyto struktury mají pouze buňky rostlin;Pouze buněčná stěna;B
-Jak se nazývá soubor buněk, které mají stejný tvar, původ a plní stejnou funkci?;Orgán;Tkáň;Organismus;B
-Která tkáň kryje povrch těla a vystýlá vnitřní orgány?;Epitulová tkáň (epitel);Nervová tkáň;Svalová tkáň;A
-Do které skupiny tkání řadíme kosti, chrupavky a vaziva?;Tkáně krycí;Tkáně svalové;Tkáně pojivové;C
-Která pojivová tkáň je nejtvrdší a tvoří kostru člověka?;Vazivo;Chrupavka;Kost;C
-Co tvoří tekutou složku pojivových tkání a koluje v cévách?;Krev;Mozkomíšní mok;Slina;A
-Která tkáň má schopnost se stahovat a umožňuje pohyb lidského těla?;Nervová tkáň;Svalová tkáň;Pojivová tkáň;B
-Který typ svalové tkáně ovládáme vůlí a tvoří kosterní svaly?;Hladká svalovina;Příčně pruhovaná svalovina;Srdeční svalovina;B
-Kde v těle najdeme hladkou svalovinu, kterou neumíme ovládat vůlí?;V kosterních svalech rukou;Ve stěnách žaludku a střev;V srdeční stěně;B
-Který orgán je tvořen speciálním typem svaloviny, která pracuje neúnavně po celý život?;Plíce;Srdce;Játra;B
-Která tkáň zajišťuje příjem, zpracování a vedení vzruchů v těle?;Nervová tkáň;Krycí tkáň;Kostní tkáň;A
-Jak se nazývá základní buňka nervové tkáně?;Neuron;Nefron;Leukocyt;A
-Jak se nazývají krátké výběžky nervové buňky, které přijímají podněty?;Neurity;Dendrity;Axony;B
-Jak se nazývá dlouhý výběžek neuronu, který vede vzruch směrem od buňky?;Dendrit;Jádro;Axon (neurit);C
-Jak se nazývá spojení mezi dvěma nervovými buňkami, kde dochází k přenosu vzruchu?;Synapse;Reflex;Struna;A
-Která sféra lidského těla je tvořena souborem tkání plnících konkrétní úkol (např. žaludek)?;Buňka;Orgán;Jedinec;B
-Kolik chromozomů obsahuje běžná lidská tělesná buňka?;23;46;48;B
-Které buňky v lidském těle mají schopnost přenášet kyslík?;Bílé krvinky;Červené krvinky;Krevní destičky;B
-Který prvek je nezbytnou součástí kostní tkáně a dodává jí pevnost?;Vápník;Železo;Jód;A
-Co vyplňuje vnitřek dlouhých kostí a tvoří se v tom krevní buňky?;Kostní dřeň;Chrupavka;Míza;A
-Jak se nazývá ochranné pouzdro kolem mozku tvořené plochými kostmi?;Páteř;Hrudník;Lebka;C
-Která tkáň tvoří ušní boltec a meziobratlové ploténky?;Vazivo;Chrupavka;Kost;B
-Co pohání evoluční změny a adaptaci člověka na různé přírodní podmínky?;Přírodní výběr a mutace;Pouze lidská vůle;Stabilní klima;A
+Kolik kostí má průměrně tělo dospělého člověka?; 156; 206; 306; B
+Která kost je nejdelší v lidském těle?; Kost stehenní; Kost pažní; Kost holenní; A
+Která kost je nejmenší v lidském těle?; Třmínek; Kladívko; Kovadlinka; A
+Kde v těle najdeme nejmenší kost?; V nosu; V uchu; V prstu; B
+Kolik obratlů tvoří krční páteř?; 5; 7; 12; B
+Jak se odborně nazývá čéška?; Patella; Clavicula; Scapula; A
+Která kost tvoří podklad našich tváří?; Kost čelní; Kost lícní; Kost slzná; B
+Kolik párů žeber má člověk obvykle?; 10; 12; 14; B
+Jak se nazývá první krční obratel?; Axis; Atlas; Nosák; B
+Jak se nazývá druhý krční obratel?; Čepovec; Atlas; Kostrč; A
+Která kost spojuje lopatku s hrudní kostí?; Kost klíční; Kost pažní; Kost vřetenní; A
+Kam se řadí kosti zápěstní?; Mezi kosti dlouhé; Mezi kosti krátké; Mezi kosti ploché; B
+Jak se odborně nazývá kostra hlavy?; Cranium; Pelvis; Sternum; A
+Která z těchto kostí je nepárová?; Kost spánková; Kost temenní; Kost čelní; C
+Jak se nazývá hlavní dlouhá kost na palcové straně předloktí?; Kost loketní; Kost vřetenní; Kost pažní; B
+Jak se nazývá hlavní dlouhá kost na malíkové straně předloktí?; Kost loketní; Kost vřetenní; Kost stehenní; A
+Která kost tvoří přední část hrudního koše?; Kost pánevní; Kost hrudní; Kost křížová; B
+Jak se odborně nazývá kost hrudní?; Scapula; Sternum; Femur; B
+Který typ kloubu najdeme v rameni?; Kloub kulový; Kloub sedlový; Kloub válcový; A
+Jak se nazývá kostra trupu, která chrání míchu?; Pánev; Hrudní koš; Páteř; C
+Kolik obratlů tvoří bederní páteř?; 5; 7; 12; A
+Která kost je nejmohutnější v lidské pánvi?; Kost sedací; Kost kyčelní; Kost stydká; B
+Jakým typem kosti je lopatka?; Dlouhá; Krátká; Plochá; C
+Jak se nazývá proces tvorby červených krvinek v kostní dřeni?; Erytropoéza; Leukopoéza; Hemostáza; A
+Která tkáň pokrývá kloubní povrchy kostí?; Vazivo; Chrupavka; Sval; B
+Který minerál je nejdůležitější pro pevnost kostí?; Železo; Vápník; Draslík; B
+Který vitamin je nezbytný pro správné vstřebávání vápníku do kostí?; Vitamin A; Vitamin C; Vitamin D; C
+Jak se nazývají buňky, které kostní tkáň odbourávají?; Osteoblasty; Osteoklasty; Osteocyty; B
+Jak se nazývají buňky, které kostní tkáň vytvářejí?; Osteoblasty; Osteoklasty; Leukocyty; A
+Které žebra nejsou přímo ani nepřímo spojena s hrudní kostí?; Pravá; Nepravá; Volná; C
+Jak se nazývají nepohyblivá spojení kostí na lebce dospělého?; Švy; Klouby; Chrupavky; A
+Která kost tvoří spodní čelist?; Maxilla; Mandibula; Vomer; B
+Která kost tvoří horní čelist?; Maxilla; Mandibula; Kost čichová; A
+Kde v těle se nachází kost patní?; V ruce; V chodidle; V páteři; B
+Jak se latinsky nazývá kost stehenní?; Tibia; Fibula; Femur; C
+Která z kostí bérce je silnější a nese většinu váhy?; Kost holenní; Kost lýtková; Čéška; A
+Jak se odborně nazývá kost lýtková?; Tibia; Fibula; Radius; B
+Která kost je jedinou pohyblivou kostí lebky?; Horní čelist; Dolní čelist; Kost nosní; B
+Kolik obratlů tvoří hrudní páteř?; 5; 7; 12; C
+Jak se nazývá pružná výplň mezi obratli?; Kloubní pouzdro; Meziobratlová ploténka; Kostní dřeň; B
+Co se nachází uvnitř dlouhých kostí?; Mozkomíšní mok; Kostní dřeň; Lymfa; B
+Které onemocnění způsobuje řídnutí a křehkost kostí?; Osteoporóza; Artróza; Skolióza; A
+Jak se nazývá boční vychýlení páteře?; Lordóza; Kyfóza; Skolióza; C
+Která kost nepatří do dolní končetiny?; Kost klíční; Kost stehenní; Kost holenní; A
+Kolik zánártních kostí má lidská noha?; 5; 7; 8; B
+Kolik zápěstních kostí má lidská ruka?; 5; 7; 8; C
+Jak se nazývají kosti, které tvoří podklad prstů?; Články prstů; Kosti nártní; Kosti zápěstní; A
+Která kost chrání mozek zezadu a zespodu lebky?; Kost týlní; Kost čelní; Kost klínová; A
+Jaké spojení kostí je u stydké spony (symphysis pubica)?; Vazivové; Chrupavčité; Kloubní; B
+Který orgán je chráněn pánví?; Mozeček; Srdce; Močový měchýř; C
